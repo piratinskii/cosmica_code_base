@@ -1,0 +1,40 @@
+# Core ML and Computer Vision
+torch>=1.12.0
+torchvision>=0.13.0
+ultralytics>=8.0.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Data Processing and Analysis
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Data Augmentation
+albumentations>=1.1.0
+
+# Object Detection Evaluation
+pycocotools>=2.0.2
+
+# Web Scraping
+beautifulsoup4>=4.9.0
+requests>=2.25.0
+
+# Progress Bars and Utilities
+tqdm>=4.60.0
+
+# Experiment Tracking (optional)
+comet-ml>=3.0.0
+
+# EfficientDet Dependencies
+effdet>=0.3.0
+
+# Additional dependencies for evaluation
+timm>=0.6.0
+
+# Image Processing
+scikit-image>=0.18.0 
