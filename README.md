@@ -199,19 +199,6 @@ REPOSITORY/
 └── real_detector.py              # Real-world testing
 ```
 
-## Citation
-
-If you use this code, please cite our paper:
-
-```bibtex
-@article{piratinskii2025cosmica,
-  title={Curated astronomical imagery for multi-class object detection evaluation},
-  author={Piratinskii, Evgenii and Rabaev, Irina},
-  journal={Scientific Data},
-  year={2025}
-}
-```
-
 ## License
 
 This code is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. 
